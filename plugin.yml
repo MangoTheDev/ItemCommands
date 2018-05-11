@@ -5,6 +5,7 @@ api:
 - 3.0.0-ALPHA10
 - 3.0.0-ALPHA11
 - 3.0.0-ALPHA12
+- 4.0.0
 author: Az928
 main: ItemCommands\Core
 description: "Add commands on certain items and execute them on tap"
